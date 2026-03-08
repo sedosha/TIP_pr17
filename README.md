@@ -106,3 +106,37 @@ Tasks Service отвечает за управление задачами (CRUD)
 | `503 Service Unavailable` | Сервис недоступен | Auth Service не отвечает (таймаут 3 секунды) |
 
 ---
+
+# Тестирование
+
+ - Получить токен
+ - <img width="865" height="119" alt="image" src="https://github.com/user-attachments/assets/d10feb6f-5768-4ce9-aa0d-9dbb7232731a" />
+
+ - Проверка токена напрямую 
+ - <img width="781" height="234" alt="image" src="https://github.com/user-attachments/assets/2ad8ec56-e61f-41ed-8be4-60fcd4012530" />
+
+ - Создать задачу через Tasks
+ - <img width="1280" height="265" alt="image" src="https://github.com/user-attachments/assets/a3eb37b3-385f-4576-9e95-3ca83f80d819" />
+
+ - Попробовать без токена
+ - <img width="720" height="232" alt="image" src="https://github.com/user-attachments/assets/c7963ec4-b1cd-4026-8077-203f3c5cb8c3" />
+
+ - Получить список всех задач
+ - <img width="1280" height="241" alt="image" src="https://github.com/user-attachments/assets/1bfb497a-e9b4-407e-8d58-a681c1702eb8" />
+
+ - Получить конкретную задачу по ID
+ - <img width="1280" height="222" alt="image" src="https://github.com/user-attachments/assets/55ffff71-15fc-4bc6-b5d0-c3d342d896b6" />
+
+ - Обновить задачу
+ - <img width="1280" height="261" alt="image" src="https://github.com/user-attachments/assets/1479dd6d-d8a1-42f4-bd61-cd8a47414db7" />
+
+ - Удалить задачу
+ - <img width="954" height="146" alt="image" src="https://github.com/user-attachments/assets/8760b53d-b7a9-4b0f-9df7-f485d869320f" />
+
+ - Попробовать с неверным токеном
+ - <img width="717" height="254" alt="image" src="https://github.com/user-attachments/assets/018d6145-e849-4353-9868-bc6da8619e92" />
+
+# Логирование
+- <img width="872" height="437" alt="image" src="https://github.com/user-attachments/assets/7ba578b1-8773-452d-acdc-939f2e338317" />
+- <img width="794" height="486" alt="image" src="https://github.com/user-attachments/assets/41a25629-6fbe-47ef-9bf9-5e4439547d16" />
+
